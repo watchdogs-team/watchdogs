@@ -16,6 +16,7 @@ public class Triangle implements Shape {
         this.y = y;
         this.base = base;
         this.height = height;
+        String color = "turquoise";
     }
 
 
